@@ -4,3 +4,29 @@ body{
     background-attachment: fixed;
     background-size: cover;
 }
+
+#broninfo{
+    text-align: center;
+    float: left;
+}
+
+#bronhealth{
+    justify-content: center;
+    text-align: center;
+}
+
+button{
+    background-color: #fff;
+    color: #000;
+    height: 60px;
+    width: 160px;
+    border-radius: 80px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#bronmoves{
+    justify-content: center;
+    width: 80%;
+    text-align: center;
+}
